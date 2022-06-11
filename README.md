@@ -1,8 +1,8 @@
 # Lab11Web 
 framework CRUD PHP code igniter
 
-###### Nama : Fara Deviana
-###### NIM : 312010407
+###### Nama : Veronika Rustiani Dame Sihombing
+###### NIM : 312010325
 ###### Kelas : TI.A.2
 
 Instruksi Praktikum
